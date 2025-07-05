@@ -1,0 +1,25 @@
+fastapi
+uvicorn
+python-dotenv
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+PyMuPDF
+chromadb
+sentence-transformers
+python-multipart
+lark
+streamlit
+cohere
+numpy
+# !pip install --upgrade tiktoken
+# !pip install langchain
+# !pip install docx2txt
+# !pip install chromadb
+# !pip install huggingface_hub
+# Ensure you have the latest versions of these packages
+# You can install them using pip:
+# pip install -U langchain langchain-community langchain-groq langchain-huggingface PyMuPDF chromadb
+# pip install -r requirements.txt
+# This will install all the packages listed in this file.
